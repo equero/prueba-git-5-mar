@@ -1,0 +1,17 @@
+p.destacado {
+    font-style: italic;  
+}
+
+.destacado {
+  color: red;
+}
+.btn {
+    border-radius: 5px;
+    font-family: Arial, Helvetica, serif;
+    font-size: 0.8 em;
+ }
+.delete { background-color: red }
+.add { background-color: green }
+.edit { background-color: blue }
+#aviso { background-color: green; }
+
